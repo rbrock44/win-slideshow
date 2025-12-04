@@ -1,6 +1,6 @@
 param(
     # Default to directory where this script resides
-    [string]$PictureFolder = $PSScriptRoot
+    [string]$PictureFolder = "$PSScriptRoot/backgrounds"
 )
 
 # --- Registry paths ---
